@@ -1,0 +1,5 @@
+Team Name: [Your Team Name]
+Members:
+- [Name 1]: Launch scene, project setup
+- [Name 2]: Refuel scene, transfer scene
+- [Name 3]: Landing scene, documentation
